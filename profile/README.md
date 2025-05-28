@@ -40,10 +40,7 @@ Whether it's game logic, netcode, rendering, or rapid prototyping, we like getti
 
 ## 🎮 Our Projects
 
-###![Uploading final-engine.svg…]()
- ⚙️ Final Engine
-
-
+### ⚙️ Final Engine
 
 > The engine behind the antics — lightweight, powerful, and unapologetically ours.
 
@@ -52,7 +49,7 @@ Crafted through iterative agile sprints, it’s purpose-built to support rapid e
 
 We’re not chasing trends — we’re building the tools we need to make the games we want.
 
-- Windows only
+- Windows only (but extendable to other platforms by design)
 - ECS (Entity Component System) architecture
 - Input handling (keyboard, mouse, controllers)
 - GDI+ software rendering
