@@ -20,7 +20,7 @@ https://www.softwareantics.com.au
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@softwareantics"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/youtube.svg" alt="YouTube"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="[https://discord.gg/xSjaF3qZ](https://discord.gg/kdNR7rXcvU)"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/discord.svg" alt="Discord"></a>
+  <a href="https://discord.gg/kdNR7rXcvU"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/discord.svg" alt="Discord"></a>
 
 </div>
 
