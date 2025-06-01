@@ -19,7 +19,8 @@ https://www.softwareantics.com.au
  <a href="https://www.x.com/softwareantics"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter.svg" alt="Twitter"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@softwareantics"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/youtube.svg" alt="YouTube"></a>
-
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/UNdKXsdeQb"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/discord.svg" alt="Discord"></a>
 </div>
 
 ---
