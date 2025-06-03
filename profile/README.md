@@ -61,21 +61,6 @@ You can check it out here: [**Final Engine on GitHub**](https://www.github.com/s
 
 ---
 
-### 🧼 Slimey Wimey
-
-> A chaotic, party-based battle royale where physics meets pure nonsense!
-
-You’re a bouncy blob of doom.  
-Host a game, drag your friends in, pick a ridiculous power, and battle it out in messy, powered-up slime fights.  
-Only one gooey gladiator will survive — if you don’t explode from laughter first.
-
-- Peer-to-peer networking
-- Physics-based gameplay
-- Local & online multiplayer
-- Fun as F#$%
-
----
-
 ### 🗺️ Mantanimus
 
 > An online fantasy role playing game where SNES meets the internet!
