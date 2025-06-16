@@ -34,5 +34,3 @@ We’re developers, designers, worldbuilders, and engine-smiths who care deeply 
 > Final Engine is lightweight, modular, and open-source — giving us full control from pixel to packet.
 
 Whether it's game logic, netcode, rendering, or rapid prototyping, we like getting our hands dirty and doing it our way.
-
----
